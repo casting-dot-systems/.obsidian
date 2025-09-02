@@ -1,0 +1,12 @@
+module.exports = async (tp, app) => {
+  const { vault } = app;
+  const file = tp.file.find_tfile(tp.file.path(true));
+  const today = tp.date.now("YYYY-MM-DD");
+
+  // Update YAML field using MetaEdit
+  await app.commands.executeCommandById("metaedit:insert-field", {
+    file: file,
+    field: "lastUpdated",
+    value: today
+  });
+};
