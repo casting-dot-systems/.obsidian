@@ -1,7 +1,7 @@
 {
   "newFileLocation": "folder",
   "newFileFolderPath": "Cast",
-  "showUnsupportedFiles": true,
+  "showUnsupportedFiles": false,
   "attachmentFolderPath": "Media/Images",
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
