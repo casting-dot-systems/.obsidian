@@ -116,14 +116,6 @@
       "key": "E"
     }
   ],
-  "editor:toggle-bullet-list": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "B"
-    }
-  ],
   "workspace:split-vertical": [
     {
       "modifiers": [
@@ -508,6 +500,15 @@
         "Mod"
       ],
       "key": "Q"
+    }
+  ],
+  "editor:insert-link": [],
+  "editor:toggle-bullet-list": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "K"
     }
   ]
 }
