@@ -1,0 +1,11 @@
+{
+  "jsFiles": "",
+  "jsFolder": "scripts",
+  "startupScriptNames": [],
+  "registeredInvocableScriptNames": [
+    "PasteDemoteHeadings",
+    "InsertTitleOfPage",
+    "PasteAndSelect"
+  ],
+  "rerunStartupScriptsOnFileChange": false
+}

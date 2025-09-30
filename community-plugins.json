@@ -17,5 +17,7 @@
   "obsidian-vimrc-support",
   "keyboard-analyzer",
   "table-editor-obsidian",
-  "share-note"
+  "share-note",
+  "obsidian-html-tags-autocomplete",
+  "customjs"
 ]
