@@ -1,11 +1,12 @@
 {
   "jsFiles": "",
-  "jsFolder": "scripts",
+  "jsFolder": "Media/Templates/Castplates/scripts",
   "startupScriptNames": [],
   "registeredInvocableScriptNames": [
     "PasteDemoteHeadings",
     "InsertTitleOfPage",
-    "PasteAndSelect"
+    "PasteAndSelect",
+    "ShareHttpLink"
   ],
   "rerunStartupScriptsOnFileChange": false
 }
